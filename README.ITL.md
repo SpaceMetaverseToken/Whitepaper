@@ -85,7 +85,7 @@ Il token $SPMT è il token di utilità utilizzato per le transazioni e altri pro
   
 ## 🚀 Tokenomica e distribuzione
 
-La fornitura totale di token $SPMT sarà fissata a 10.000.000.000. Ogni token ha un valore di $ 0,00025. I token saranno venduti tramite un ICO e presto saranno disponibili su Launchpad. I token saranno distribuiti nella seguente proporzione tra i principali stakeholder:
+La fornitura totale di token $SPMT sarà fissata a 10.000.000.000. Ogni token ha un valore di $ 0,0025. I token saranno venduti tramite un ICO e presto saranno disponibili su Launchpad. I token saranno distribuiti nella seguente proporzione tra i principali stakeholder:
   
 | Stakeholder | Percentage    | Amount               | Value                |
 | :-------- | :------- | :------------------------- | :------------------------- |
